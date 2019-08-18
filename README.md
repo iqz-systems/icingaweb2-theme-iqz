@@ -13,10 +13,6 @@ Only a few things are tweaked right now:
 * Colors of Icinga tuned for a corporate CI
 * Login background changed
 
-![Screenshot Login](screenshots/login.png)
-
-![Screenshot Tactical Overview](screenshots/tac.png)
-
 In every theme, the base theme of Icinga Web 2 is applied, and modifications need to be
 added incrementally.
 
@@ -34,10 +30,6 @@ Enable the module:
     icingacli module enable iqz-icingaweb2-theme
     
 Then you can select the theme in the admin or user UI.
-
-![Changing themes as admin](screenshots/admin-theme.png)
-
-![Changing themes as user](screenshots/user-theme.png)
 
 Tweak it to your needs, you can also change the module name or
 incorporate the files into your own module.
